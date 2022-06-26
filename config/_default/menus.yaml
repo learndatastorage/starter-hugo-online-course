@@ -27,6 +27,4 @@ main:
   - name: My Pages
     url: /#my-session
     weight: 70
-  - name:About
-    url: about/
-    weight: 80
+
