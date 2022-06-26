@@ -25,5 +25,5 @@ main:
     PageRef: contact/index.md
     weight: 60
   - name: My Pages
-    PageRef: home/my-Session.md
+    PageRef: /#my-session
     weight: 30
